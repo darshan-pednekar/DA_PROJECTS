@@ -1,0 +1,21 @@
+campaign_id,campaign_name,start_date,end_date,objective
+1,Campaign_1,2025-01-01,2025-06-01,Branding
+2,Campaign_2,2025-01-08,2025-06-11,Convertion
+3,Campaign_3,2025-01-15,2025-06-21,Conversion
+4,Campaign_4,2025-01-22,2025-07-01,Convertion
+5,Campaign_5,2025-01-29,2025-07-11,Convertion
+6,Campaign_6,2025-02-05,2025-07-21,Lead Gen
+7,Campaign_7,2025-02-12,2025-07-31,Conversion
+8,Campaign_8,2025-02-19,2025-08-10,Conversion
+9,Campaign_9,2025-02-26,2025-08-20,Conversion
+10,Campaign_10,2025-03-05,2025-08-30,Convertion
+11,Campaign_11,2025-03-12,2025-09-09,Branding
+12,Campaign_12,2025-03-19,2025-09-19,Conversion
+13,Campaign_13,2025-03-26,2025-09-29,Convertion
+14,Campaign_14,2025-04-02,2025-10-09,Lead Gen
+15,Campaign_15,2025-04-09,2025-10-19,Branding
+16,Campaign_16,2025-04-16,2025-10-29,Lead Gen
+17,Campaign_17,2025-04-23,2025-11-08,Branding
+18,Campaign_18,2025-04-30,2025-11-18,Convertion
+19,Campaign_19,2025-05-07,2025-11-28,Awareness
+20,Campaign_20,2025-05-14,2025-12-08,Branding

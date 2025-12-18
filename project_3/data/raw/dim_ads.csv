@@ -1,0 +1,51 @@
+ad_id,ad_type,device_type,placement
+1,Video,Moblie,Search
+2,Video,Tablet,Display Network
+3,Text,Tablet,Search
+4,vidoe,Desktop,Search
+5,Text,Mobile,Search
+6,Text,Moblie,Display Network
+7,Display,Desktop,Search
+8,Display,Moblie,Desplay Network
+9,Display,Moblie,Search
+10,Video,Desktop,Desplay Network
+11,vidoe,Desktop,Desplay Network
+12,vidoe,Desktop,Desplay Network
+13,vidoe,Desktop,Display Network
+14,vidoe,Desktop,Display Network
+15,Display,Moblie,Display Network
+16,Video,Desktop,Search
+17,Video,Mobile,Desplay Network
+18,Display,Tablet,Display Network
+19,Video,Desktop,Display Network
+20,Display,Desktop,Search
+21,vidoe,Moblie,Display Network
+22,Display,Desktop,Search
+23,vidoe,Desktop,YouTube
+24,vidoe,Desktop,Display Network
+25,Text,Moblie,YouTube
+26,Display,Desktop,Search
+27,Text,Tablet,Desplay Network
+28,Display,Moblie,Display Network
+29,Display,Tablet,Search
+30,Text,Moblie,Desplay Network
+31,Text,Desktop,Desplay Network
+32,Display,Tablet,YouTube
+33,Video,Moblie,Search
+34,vidoe,Mobile,Desplay Network
+35,Text,Desktop,Display Network
+36,vidoe,Moblie,Display Network
+37,Video,Mobile,YouTube
+38,Video,Moblie,Desplay Network
+39,Video,Mobile,Search
+40,Text,Desktop,Display Network
+41,Video,Tablet,Desplay Network
+42,Text,Mobile,Desplay Network
+43,Video,Moblie,YouTube
+44,vidoe,Desktop,Display Network
+45,vidoe,Mobile,Display Network
+46,Display,Moblie,Search
+47,vidoe,Moblie,Display Network
+48,Display,Moblie,Search
+49,vidoe,Mobile,Display Network
+50,Text,Mobile,YouTube
